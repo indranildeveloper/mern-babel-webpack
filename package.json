@@ -1,0 +1,28 @@
+{
+  "name": "mern-simplesetup",
+  "version": "1.0.0",
+  "description": "MERN Simple Setup",
+  "main": "server.js",
+  "author": "Indranil Halder <indranilhalder.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hot-loader/react-dom": "^17.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hot-loader": "^4.13.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "nodemon": "^2.0.15",
+    "webpack": "^5.64.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-middleware": "^5.2.2",
+    "webpack-hot-middleware": "^2.25.1",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
